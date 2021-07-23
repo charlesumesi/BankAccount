@@ -4,7 +4,7 @@ My BankAccount class has nearly 2000 lines of code so trying to 'decode' it at '
 
 Simply download the file and open on your favourite IPython console and execute. It is a fully non-GUI easy-to-run interactive experience throughout.
 
-The class can:
+The class (as currently written) can:
 Run current and business accounts indefinitely.
 Run savings account at a fixed interest rate indefinitely if no withdrawals/additions are made.
 Run savings account if a withdrawal or addition is made by adding a one-off interest that keeps the balance unchanged until a new withdrawal or addition is made.
@@ -13,6 +13,6 @@ Identify valid ATM card numbers.
 Assess pin numbers and their correctness for the ATM card number entered (gives you the choice of pin the first time the card number is entered then 'locks' the two).
 Create and update files it generates.
 
-The class cannot:
+The class (as currently written) cannot:
 Do the above for different named people (set for 'Some Body' although I am considering a more generic version of the class).
 Create folders (again, this is intended for the more generic version).
