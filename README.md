@@ -14,6 +14,8 @@ class Account:
         self.businessaccount = self.BusinessAccount()
         ...
         
+    '''Subclasses'''
+    
     class ATM_card_validator(Account_Holder):
         
         '''Determines whether a number is a valid ATM card number.
