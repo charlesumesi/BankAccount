@@ -12,7 +12,8 @@ class Account:
         self.currentaccount = self.CurrentAccount()  # aka 'checking' account
         self.savingsaccount = self.SavingsAccount()
         self.businessaccount = self.BusinessAccount()
-        ...         
+        ...
+        
     class ATM_card_validator(Account_Holder):
         
         '''Determines whether a number is a valid ATM card number.
