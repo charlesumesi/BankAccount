@@ -14,5 +14,5 @@ Assess pin numbers and their correctness for the ATM card number entered (gives 
 Create and update files it generates.
 
 The class cannot:
-Do the above for different named people (set for 'Some Body' although a more generic version is intended).
+Do the above for different named people (set for 'Some Body' although I am considering a more generic version of the class).
 Create folders (again, this is intended for the more generic version).
