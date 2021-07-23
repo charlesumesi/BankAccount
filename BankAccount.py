@@ -4,7 +4,6 @@ Completed on Wed Jul 21 05:09:46 2021
 Name: BankAccount.py
 Purpose: Simulates current (checking), savings, and business back aaccounts
 @author: Charles Umesi (charlesumesi)
-@author: cuprogrammer
 """
 
 from abc import ABC, abstractmethod
