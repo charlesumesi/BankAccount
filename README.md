@@ -1,5 +1,5 @@
 # BankAccount
-A Python class that can simulate current (checking), savings, and balance accounts; fully interactive, non-GUI but easy to follow.
+A Python class that can simulate current (checking), savings, and balance accounts; fully interactive, non-GUI but easy to run.
 ```python
 class Account:
     
