@@ -2,7 +2,7 @@ HELPFUL NOTES
 
 My BankAccount class has nearly 2000 lines of code so trying to 'decode' it at 'first pass' will be a very challenging and arduous task. So, why not 'try it before decoding it'.
 
-Simply download the file and open on your favourite IPython console and execute. It is a fully non-GUI easy-to-follow interactive experience throughout.
+Simply download the file and open on your favourite IPython console and execute. It is a fully non-GUI easy-to-run interactive experience throughout.
 
 The class can:
 Run current and business accounts indefinitely.
