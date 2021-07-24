@@ -88,7 +88,7 @@ class Account:
         
     class Login(Account_Holder):
         
-        '''Accesses and enables creation of pin.'''
+        '''Assesses and enables creation of pin.'''
         
         def access_transactions_balances(self):
                         
