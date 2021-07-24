@@ -12,8 +12,8 @@ Do transfers between current, savings, and business accounts.
 Identify valid ATM card numbers.
 Assess pin numbers and their correctness for the ATM card number entered (gives you the choice of pin the first time the card number is entered then 'locks' the two).
 Give a dated history of all transactions in all accounts ('Paid in', 'Paid out', 'Transferred', 'Total interest', 'Expense fees', 'Total monthly charges').
-Only work in pounds sterling (£).
 Create and update files it generates.
+Only work in pounds sterling (£).
 
 The class (as currently written) cannot:
 Do the above for different named people (set for 'Some Body' although I am considering a more generic version of the class).
