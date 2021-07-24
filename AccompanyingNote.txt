@@ -11,7 +11,7 @@ Run savings account if a withdrawal or addition is made by adding a one-off inte
 Do transfers between current, savings, and business accounts.
 Identify valid ATM card numbers.
 Assess pin numbers and their correctness for the ATM card number entered (gives you the choice of pin the first time the card number is entered then 'locks' the two).
-Give a dated history of all transactions in all accounts ('Paid in', 'Paid out', 'Transferred', 'Total interest', 'Total expense fees').
+Give a dated history of all transactions in all accounts ('Paid in', 'Paid out', 'Transferred', 'Total interest', 'Expense fees', 'Total monthly charges').
 Only work in pounds sterling (£).
 Create and update files it generates.
 
